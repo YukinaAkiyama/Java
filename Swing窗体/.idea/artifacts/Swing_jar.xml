@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="Swing窗体:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Swing_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Swing窗体.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Swing窗体" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="module-source" name="Swing窗体" />
+      </element>
+    </root>
+  </artifact>
+</component>

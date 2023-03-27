@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/P125Q1/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/P125Q1/MyException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/P125Q1/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/P125Q2/Number.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/P125Q3/Computer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/P125Q3/MyException.java" charset="GBK" />
+  </component>
+</project>
